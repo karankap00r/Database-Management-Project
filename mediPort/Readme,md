@@ -1,0 +1,9 @@
+The project aims at creating a One-Port service for the doctors from a plethora of fields to come and register themselves and users to search among them to cure their present illness.Timings and Other details are then available on the Doctor's personal page through which he can be contacted.
+
+Web Technologies Used :
+
+1. HTML
+2. Bootstrap 3
+3. PHP
+4. MySQL
+5. XAMPP Server for local hosting the website.
